@@ -1,3 +1,6 @@
+.ruby-version
+.rbenv-version
+
 # rcov generated
 coverage
 
